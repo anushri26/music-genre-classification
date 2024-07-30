@@ -1,5 +1,5 @@
-Requirements
-*pandas
-*scikit-learn
-*matplotlib
-*seaborn
+
+pandas 
+scikit-learn
+matplotlib
+seaborn
