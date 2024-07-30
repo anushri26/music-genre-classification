@@ -1,4 +1,4 @@
-# Music Genre Classification Challenge
+# Music Genre Classification 
 
 ## Overview
 This repository provides a solution for classifying music genres based on audio features extracted from 3-second audio clips. The dataset includes features like tempo, MFCCs, and spectral characteristics, along with genre labels.
